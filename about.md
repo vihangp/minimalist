@@ -11,6 +11,8 @@ More specifically, I want to work in finding how we can improve the sample effic
 
 I completed my Bachelors in Engineering from University of Mumbai and what moved me towards understanding learning systems was my experience in developing [robots](https://www.youtube.com/watch?v=wfj4C9W8Lp8&list=PLzlqyUyoIAeKrWsyxdK00kTYIsfAp0Duj) for the Robocon competition. Further, I developed my data science skills in the industry at [Fractal.ai](https://fractal.ai/). Since then, I have moved to Switzerland to pursue a master's degree in Artificial Intelligence as stepping towards more reasearch oriented roles in machine learning. 
 
+You can find my cv [here](https://drive.google.com/open?id=1flWmmM3VGlSoMOMmWgdkufaGnQD16VEI). 
+
 ### Actively looking for Phd Position in Reinforcement Learning/Deep Learning
 
 #### Updates/News\:
