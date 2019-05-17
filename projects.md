@@ -8,7 +8,7 @@ permalink: /projects/
 ### Research Oriented Projects
 **Improving sampling in Evolution Strategies for Reinforcement Learning**: Designing a new hybrid method by combining Evolution strategies and Policy gradient methods. The work is still ongoing.
 
-**Reward redistribution in Reinforcement Learning for long sequences**: Implemented (Reward redistribution)[https://arxiv.org/abs/1806.07857] for tasks with extremely long delay in reward and even longer episode length. Designed and trained deep neural network architecture for this task. This was done as an Intern at Institute of Machine Learning, Linz, Austria. 
+**Reward redistribution in Reinforcement Learning for long sequences**: Implemented [Reward redistribution](https://arxiv.org/abs/1806.07857) for tasks with extremely long delay in reward and even longer episode length. Designed and trained deep neural network architecture for this task. This was done as an Intern at Institute of Machine Learning, Linz, Austria. 
 
 **ABU-ROBOCON competition**: Co-founded the team in 2013 and was programming lead(2013-2014) and Team leader(2015). Designed, built and programmed robots for tasks ranging from pick and place to playing double's [Badminton](https://www.youtube.com/watch?v=wfj4C9W8Lp8&list=PLzlqyUyoIAeKrWsyxdK00kTYIsfAp0Duj). Lead a team of 20 students (2015), and oversaw mechanical, electronics and software aspects of robot design. Improved rank to 10 from 40+ in the previous year's, in about 100 contesting teams at Robocon 2015.
 

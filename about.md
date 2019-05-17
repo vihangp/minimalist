@@ -7,9 +7,9 @@ permalink: /about/
 
 ![My MugShot](/assets/images/prof_pic_large.jpg){:height="200px" width="190px"} ||||I am a Master's student at [USI](https://www.usi.ch/en), Lugano and pursuing my major in Artificial Intelligence. My life goal is to **push boundaries of humanity** and my **current** area of interest to do this is through **research** in learning systems/machine learning/deep learning. 
 
-More specifically, I want to work in finding how we can improve the sample efficiency of our current Reinforcement Learning methods. In case of deep learning/machine learning, I want to understand how we can train end to end models at scale, while keeping the ideas of intepretability and privacy at centre. 
+More specifically, I want to work in finding how we can improve the sample efficiency of our current Reinforcement Learning methods. In case of deep learning/machine learning, I want to understand how we can train end to end models at scale, while keeping the ideas of interpretability and privacy at centre. 
 
-I completed my Bachelors in Engineering from University of Mumbai and what moved me towards understanding learning systems was my experience in developing [robots](https://www.youtube.com/watch?v=wfj4C9W8Lp8&list=PLzlqyUyoIAeKrWsyxdK00kTYIsfAp0Duj) for the Robocon competition. Further, I developed my data science skills in the industry at [Fractal.ai](https://fractal.ai/). Since then, I have moved to Switzerland to pursue a master's degree in Artificial Intelligence as stepping towards more reasearch oriented roles in machine learning. 
+I completed my Bachelors in Engineering from University of Mumbai and what moved me towards understanding learning systems was my experience in developing [robots](https://www.youtube.com/watch?v=wfj4C9W8Lp8&list=PLzlqyUyoIAeKrWsyxdK00kTYIsfAp0Duj) for the Robocon competition. Further, I developed my data science skills in the industry at [Fractal.ai](https://fractal.ai/). Since then, I have moved to Switzerland to pursue a master's degree in Artificial Intelligence as stepping towards more research oriented roles in machine learning. 
 
 You can find my cv [here](https://drive.google.com/open?id=1flWmmM3VGlSoMOMmWgdkufaGnQD16VEI). 
 
