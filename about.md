@@ -5,7 +5,7 @@ permalink: /about/
 
 ---
 
-![My MugShot](/assets/images/prof_pic_large.jpg){:height="200px" width="190px"} ||||I am a Ph.D candidate in Machine Learning at [Institute of Machine Learning, JKU Linz](https://www.jku.at/en/institute-for-machine-learning/), Austria and I am advised by [Prof. Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter).
+![My MugShot](/assets/images/prof_pic_large.jpg){:height="200px" width="190px"} ||||I am a Ph.D candidate in Machine Learning at [Institute for Machine Learning, JKU Linz](https://www.jku.at/en/institute-for-machine-learning/), Austria and I am advised by [Prof. Sepp Hochreiter](https://en.wikipedia.org/wiki/Sepp_Hochreiter).
 
 My life goal is to **push boundaries of humanity** and my **current** area of interest to do this is through **research** in learning systems/machine learning/reinforcement learning. 
 
